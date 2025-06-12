@@ -1,0 +1,1 @@
+dados = pd.read_csv('smart_manufacturing_data_processed.csv')
